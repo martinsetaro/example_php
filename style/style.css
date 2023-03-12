@@ -1,0 +1,24 @@
+
+
+.header 
+{
+    font-size: 4rem;
+    text-align: center;
+    color: red;
+    font-family:'Outfit', sans-serif;
+}
+.footer 
+{
+    font-size: 6rem;
+    text-align: center;
+    color: blue;
+    font-family:'Outfit', sans-serif;
+}
+.titulo 
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    color: #1e1e1e;
+    font-family:'Outfit', sans-serif;
+}
